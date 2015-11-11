@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MozIN MahaDevs</title>
+    <description>We are makers. We are hackers. We build things. We break things. We code, we learn, we code, we play, we teach, we code, we sleep, we code, we think, we code.&lt;br&gt;&lt;br&gt; And we want you to join us!
+</description>
+    <link>http://devs.mozillaindia.orgmahadevs/</link>
+    <atom:link href="http://devs.mozillaindia.orgmahadevs/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 11 Nov 2015 06:38:17 +0530</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2015 06:38:17 +0530</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Git</title>
+        <description>&lt;p&gt;&lt;strong&gt;Pre-requisites&lt;/strong&gt;: A computer, Internet, know how to open command line.&lt;/p&gt;
+
+&lt;p&gt;Imagine you have a program. A simple script called &lt;code&gt;helloworld.cpp&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is working quite as intended and you&amp;#39;re completely happy with the way it works. But, you decide to add a feature.&lt;/p&gt;
+
+&lt;p&gt;Now, when you write more code in &lt;code&gt;helloworld.cpp&lt;/code&gt; there is a chance that the program which was working perfectly earlier, will stop working. You don&amp;#39;t want to risk losing the earlier perfect code, so you make a copy of &lt;code&gt;helloworld.cpp&lt;/code&gt; before you write more code into it.&lt;/p&gt;
+
+&lt;p&gt;Now you have two files. &lt;code&gt;helloworld-old.cpp&lt;/code&gt; and &lt;code&gt;helloworld.cpp&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you add 5 more features, you might end up with 5 files.&lt;/p&gt;
+
+&lt;h2&gt;Git is a version controlling system&lt;/h2&gt;
+
+&lt;p&gt;It automatically makes backups of all the &lt;del&gt;crime&lt;/del&gt; code that you &lt;em&gt;commit&lt;/em&gt;. It lets you &lt;em&gt;branch&lt;/em&gt; out and explore new possibilities. (If it turns out that you didn&amp;#39;t like what you added, you can just jump back to the main branch.)&lt;/p&gt;
+
+&lt;h2&gt;Install git&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/en/Getting-Started-Installing-Git&quot;&gt;Follow this guide on git-scm.com&lt;/a&gt; to install git&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Nov 2015 05:46:14 +0530</pubDate>
+        <link>http://devs.mozillaindia.orgmahadevs/git/</link>
+        <guid isPermaLink="true">http://devs.mozillaindia.orgmahadevs/git/</guid>
+        
+        
+        <category>git</category>
+        
+      </item>
+    
+  </channel>
+</rss>
